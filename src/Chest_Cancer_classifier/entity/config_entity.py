@@ -1,7 +1,8 @@
 from dataclasses import dataclass
 from pathlib import Path
 
-@dataclass(frozen=True) #frozen=True makes the class immutable
+
+@dataclass(frozen=True)
 class DataIngestionConfig:
     root_dir: Path
     source_URL: str
