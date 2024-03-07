@@ -5,7 +5,7 @@ from Chest_Cancer_classifier import logger
 from Chest_Cancer_classifier.utils.common import get_size
 from Chest_Cancer_classifier.entity.config_entity import DataIngestionConfig
 
-
+# Data Ingestion class
 class DataIngestion:
     def __init__(self, config: DataIngestionConfig):
         self.config = config
