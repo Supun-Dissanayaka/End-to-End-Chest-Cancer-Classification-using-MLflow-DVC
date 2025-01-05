@@ -1,5 +1,8 @@
 # End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
 
+## **Here is a demo containing the project output:**
+![Smart Surveillance System](https://github.com/Supun-Dissanayaka/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/blob/main/output/output.gif?raw=true)
+
 ## Workflows
 
 1.Update config.yaml <br>
